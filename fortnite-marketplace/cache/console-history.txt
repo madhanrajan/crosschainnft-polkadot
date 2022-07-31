@@ -1,0 +1,8 @@
+(await mkt_.getListingPrice()).toNumber()
+await mkt_.getListingPrice()
+const mkt_ = await mkt.attach("0x6758aacF758B5D034fB7AAa34174676F32e23aCc")
+mkt
+const mkt = await ethers.getContractFactory('NFTMarketplace');
+const Box = await ethers.getContractFactory('NFTMarketplace');
+const Box = await ethers.getContractFactory('Box');
+const mkt = await ethers.getContractFactory("NFTMarketplace.sol");
